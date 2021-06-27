@@ -1,0 +1,11 @@
+aiogram
+apscheduler
+textblob
+glQiwiApi
+LiteSQL
+omegaconf
+IPython
+torchaudio
+asyncio
+PySoundFile
+re
